@@ -4,6 +4,19 @@ Project3 of the Web Development Specialization Course from Harvard, Mail. An ema
 
  https://cs50.harvard.edu/web/2020/projects/3/mail/
 
+<h2>Login / Register</h2>
+<img src="/screenshots/1.png">
+<h2>Inbox</h2>
+<img src="/screenshots/2.png">
+<h2>Archeve / New mail</h2>
+<img src="/screenshots/3.png">
+<h2>New mail /  Sent mail</h2>
+<img src="/screenshots/4.png">
+  <h2>Sent / Archive</h2>
+<img src="/screenshots/5.png">
+<h2>Sent / inbox</h2>
+<img src="/screenshots/6.png">
+
 
 ## Specification
 
